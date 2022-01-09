@@ -1,8 +1,8 @@
 
 
 
-### Hi there, I'm [Abderrahmane!](https://github.com/cyberpunktrial) 👋
-<p align="center">
+### Hi there, I'm [Billey!](https://github.com/cyberpunktrial) 👋
+<p align="left">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 <h2>Glad to see you here!</h2>
@@ -39,6 +39,7 @@
     </a>
    
 </p>
+
 ![I am a software engineering student](https://imgix.bustle.com/uploads/image/2021/1/20/31399460-e817-47eb-9368-8a0ce0756483-cyberpunk-2077-patch-11.jpg?w=2000&h=640&fit=crop&crop=focalpoint&auto=format%2Ccompress&fp-x=0.49866666666666665&fp-y=0.43364928909952605)
 
 
