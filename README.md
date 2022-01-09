@@ -3,7 +3,7 @@
 
 ### Hi there, I'm [Billey!](https://github.com/cyberpunktrial) 👋
 <p align="left">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://besthqwallpapers.com/Uploads/23-1-2021/153456/thumb2-cyberpunk-2077-yellow-background-cyberpunk-2077-logo-new-games-cyberpunk.jpg" width="280px"><br><br>
 </p>
 <h2>Glad to see you here!</h2>
 
@@ -40,7 +40,7 @@
    
 </p>
 
-![I am a software engineering student](https://besthqwallpapers.com/Uploads/23-1-2021/153456/thumb2-cyberpunk-2077-yellow-background-cyberpunk-2077-logo-new-games-cyberpunk.jpg)
+![I am a software engineering student]()
 
 
 
