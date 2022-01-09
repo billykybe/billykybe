@@ -2,9 +2,7 @@
 
 
 ### Hi there, I'm [Billey!](https://github.com/cyberpunktrial) 👋
-<p align="left">
-<br><img src="https://besthqwallpapers.com/Uploads/23-1-2021/153456/thumb2-cyberpunk-2077-yellow-background-cyberpunk-2077-logo-new-games-cyberpunk.jpg" width="280px"><br><br>
-</p>
+
 <h2>Glad to see you here!</h2>
 
 - 💻 I’m currently learning about **Android and React Development**
@@ -40,7 +38,7 @@
    
 </p>
 
-![I am a software engineering student]()
+![I am a software engineering student](https://cdn.mos.cms.futurecdn.net/BxUAxRiQpewugzLKX6jHPE-1200-80.jpg)
 
 
 
