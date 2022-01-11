@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning about **Android and React Development**
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
+- 🤜🏻 🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
 - 💬 Ask me about **HTML , CSS, JavaScript**
 
