@@ -37,7 +37,8 @@
     </a>
    
 </p>
-![av](https://github.com/cyberpunktrial/cyberpunktrial/blob/main/b.avif)
+
+![av](https://raw.githubusercontent.com/cyberpunktrial/cyberpunktrial/main/b.avif)
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
