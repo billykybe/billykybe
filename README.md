@@ -5,7 +5,7 @@
 
 <h2>Glad to see you here!</h2>
 
-- 💻 I’m currently learning about **Android and React Development**
+- 💻 I’m currently learning about **Sass and React**
 
 - 🤜🏻 🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
