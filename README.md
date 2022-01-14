@@ -1,51 +1,14 @@
+# ⭐ Guilherme Borges Bastos
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyberpunktrial/)](https://www.linkedin.com/in/guilhermeborgesbastos/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyberpunktrial@gmail.com)](mailto:cyberpunktrial@gmail.com)
+[![Download CV Profile Eglish](https://img.shields.io/badge/Download-CV%20Profile-blue)](https://assets.cyberpunktrial.com/live-resume/cv-english-guilherme-bastos-v2.0.pdf)
+[![Website Badge](https://img.shields.io/badge/website-Access%20website-green)](https://cyberpunktrial.com/)
+![GitHub followers](https://img.shields.io/github/followers/cyberpunktrial?label=Follow&style=social)
 
 
+### Hi there 👋
+**Be welcome to my profile on Github. :octocat:**
+<p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
 
-### Hi there, I'm [Billey!](https://github.com/cyberpunktrial) 👋
-
-<h2>Glad to see you here!</h2>
-
-- 💻 I’m currently learning about **Sass and React**
-
-- 🤜🏻 🤛🏻 I’m looking to collaborate on **JavaScript based projects**
-
-- 💬 Ask me about **HTML , CSS, JavaScript**
-
-- ⚡ Fun fact: **I love to listen to edm music**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
-    </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://fr.reactjs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.php.net/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></code>  
-    </a>
-   
-</p>
-
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
-
-
-
-
-
-
-
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpunktrial&layout=compact)
 
