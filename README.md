@@ -1,6 +1,6 @@
 # ⭐ Billy Kibet 
 
-### Hi there 👋
+## Hi there 👋
 
 **Be welcome to my profile on Github. :octocat:** 
 
